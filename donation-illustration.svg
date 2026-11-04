@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420">
+  <rect width="560" height="420" rx="24" fill="#e6ebdb"/>
+  <circle cx="280" cy="210" r="153" fill="#f8f6ef"/>
+  <ellipse cx="281" cy="350" rx="132" ry="13" fill="#c7d2bb"/>
+  <path d="M114 245c29-75 88-127 145-137m44 0c62 11 119 66 144 138" fill="none" stroke="#94a88c" stroke-width="2" stroke-dasharray="5 9" stroke-linecap="round"/>
+  <g stroke="#214d3d" stroke-width="3" stroke-linejoin="round">
+    <circle cx="280" cy="113" r="51" fill="#eec574"/>
+    <circle cx="280" cy="113" r="41" fill="none" stroke="#af783b" stroke-width="2"/>
+    <path d="M224 248v-38c0-16 11-25 11-36h29c0 11 11 20 11 36v38z" fill="#eec574"/>
+    <rect x="232" y="162" width="35" height="16" rx="4" fill="#52745b"/>
+    <path d="M289 248v-45l16-16h40l15 16v45z" fill="#fffdf7"/>
+    <path d="M289 203h71m-54 20h36" fill="none" stroke="#809880"/>
+    <path d="M177 236h206l-20 101q-2 12-14 12H211q-12 0-14-12Z" fill="#52745b"/>
+    <path d="M242 239v-10a38 38 0 0 1 76 0v10" fill="none" stroke-linecap="round"/>
+  </g>
+  <path d="M280 313c-11-7-26-17-26-29a14 14 0 0 1 26-5 14 14 0 0 1 26 5c0 12-15 22-26 29Z" fill="#eec574"/>
+  <text x="280" y="127" text-anchor="middle" fill="#214d3d" font-family="system-ui,sans-serif" font-size="37" font-weight="700">฿1</text>
+  <g fill="#bc8144"><circle cx="131" cy="177" r="5"/><circle cx="430" cy="183" r="5"/><path d="M416 111h4v26h-4zM405 122h26v4h-26z"/></g>
+</svg>
